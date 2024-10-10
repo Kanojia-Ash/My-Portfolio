@@ -1,0 +1,70 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.main{
+     display: flex;   
+     justify-content: space-between; 
+     height: 70px;
+     align-items: center;
+     padding: 10px;
+     background-color: #F0F0F0
+}
+.logo h1{
+    font-size: 28px;
+    font-weight: 500;
+}
+.menulist a{
+  padding: 15px;
+  text-decoration: none;
+  color: rgb(42, 44, 44);
+}
+.menulist a:hover{
+    color:orange
+}
+button{
+padding: 10px 8px 10px 8px;
+background-color: rgb(250, 76, 12);
+border-radius: 20px;
+font-weight: 500;
+font-size: 0.8rem;
+color:#F0F0F0;
+
+}
+
+.myimg{
+    width: 300px;
+    border-radius: 100%;
+    
+}
+.maincontainer{
+display: flex;
+align-items: center ;
+height: 350px;
+}
+.box1{
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: #F0F0F0;
+    
+    
+}
+.chotu{
+    width: 70%;
+  
+}
+
+.chotu p{
+    margin-bottom: 200px;
+}
+
+.box2{
+   
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

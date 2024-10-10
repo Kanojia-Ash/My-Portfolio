@@ -1,0 +1,38 @@
+body{
+    background-color: #ffff;
+    font-family: "Roboto", sans-serif;
+}
+
+.expcontainer{
+    margin-top: 40px;
+    width: 100%;
+    height: 350px;
+    
+
+}
+.scont {
+   
+    
+width: 100%;
+height: 350px;
+display: flex;
+align-items: center;
+
+}
+.ex1{
+    margin: auto;
+    color: #ffff;
+    width: 40%;
+   
+    
+}
+.ex2{
+    margin-right: 50px;
+ 
+    width: 40%;
+    flex-wrap: wrap;
+}
+.ex2 button{
+    margin: 5px;
+}
+

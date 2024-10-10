@@ -1,0 +1,74 @@
+body{
+    background-color: #F8F8F8;
+    font-family: "Roboto", sans-serif;
+}
+.Servcontainer{
+    display: flex;
+    width: 100%;
+
+
+}
+
+h1{
+  
+    display: flex;
+    justify-content: center;
+   
+}
+.firstb{
+    border: 2px solid black;
+    margin: 40px;
+    padding: 20px;
+   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #F0F8FF; 
+}
+.firstb i{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.firstb button{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 130px;
+}
+.Secb{
+    border: 2px solid black;
+    margin: 40px 40px 40px 0;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #F0F8FF; 
+    
+}
+.Secb button{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 130px;
+}
+.Secb i{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.Thirdtb{
+
+    border: 2px solid black;    
+    margin: 40px 40px 40px 0;
+    
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #F0F8FF; 
+}
+.Thirdtb i{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.Thirdtb button{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 130px;
+}
+
+  

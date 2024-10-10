@@ -1,0 +1,29 @@
+body{
+    background-color: #F8F8F8;
+    font-family: "Roboto", sans-serif;
+}
+.footcontainer{
+    display: flex;
+    margin-top: 20px ;
+}
+.foot1{
+    width: 50%;
+    margin:  auto;
+    text-align: center;
+    font-size: 14px;
+}
+.foot2{
+    width: 50%;
+    margin:auto;
+    text-align: center;
+    font-size: 14px;
+    
+}
+.foot2 a{
+    text-decoration: none;
+    padding: 15px;
+    color: black;
+}
+.foot2 a:hover{
+color:orange;
+}

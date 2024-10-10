@@ -1,0 +1,50 @@
+
+body{
+    background-color: #F8F8F8;
+font-family: "Roboto", sans-serif;
+}
+.abtcontainer{
+    display:flex; 
+   
+}
+.abtcontainer h1{
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    
+}
+.imgcont{
+    display: flex;
+  justify-content: center;
+  
+    width: 50%;
+}
+.writecontainer{
+    display: flex;
+  
+}
+.writecontainer{
+    width: 50%;
+    display: flex;
+    color: #000000;   
+  
+}
+.writecontainer i{
+    padding: 10px;
+    margin-top: 15px;
+   font-size: 25px;
+   cursor: pointer;
+}
+.innercontainer{
+    line-height:30px;
+    margin-left: 50px;
+    padding-right: 150px;
+}
+.innercontainer h1{
+   display: flex;
+   
+}
+.innercontainer a{
+    color: black;
+    text-decoration: none;
+}
